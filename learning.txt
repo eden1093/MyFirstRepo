@@ -1,0 +1,1 @@
+So far in this Git and GitHub course, I've learned how to create repositories, make branches, open pull requests, and collaborate safely without breaking the main code. Understanding commits, pushes, and pulls has made me realize how powerful version control is for tracking changes and working with others. I'm excited to keep building these skills!
