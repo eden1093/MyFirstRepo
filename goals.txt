@@ -1,0 +1,10 @@
+My Personal and Academic Goals for Next Year
+
+Over the next year (2026), I really want to get solid with software engineering and tech skills while still building on my Economics and development background.
+
+Finish the ALX Software Engineering program strong — really get comfortable with things like Git/GitHub, programming basics, and building actual projects.
+Pick up Python, JavaScript, and some data analysis tools so I can combine them with the analytical skills I already have from Economics.
+Get involved in open-source projects or team up with others on challenges, especially anything related to food security, agriculture, or sustainable development.
+Keep digging into ways to use tech and research to help reduce crop losses and support farmers in Ethiopia — that’s something I care about a lot.
+Stay consistent with learning: practice every day on platforms like GitHub, LeetCode, or freeCodeCamp, and track my progress along the way.
+
